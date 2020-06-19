@@ -1,0 +1,3 @@
+export const SET_HABIT_NAME = 'SET_HABIT_NAME';
+export const INCREMENT_STREAK = 'INCREMENT_STREAK';
+export const LOSE_STREAK = 'LOSE_STREAK';
